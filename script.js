@@ -9,7 +9,6 @@ const characters = { // object of letters, numbers & symbols
     lowercase: "abcdefghijklmonpqrstuvwxyz",
     uppercase: "ABCDEFGHIJKLMONPQRSTUVWXYZ",
     numbers: "0123456789",
-    // symbols: "^!$%&|[](){}:;.,*+-#@<>~"
     symbols: "^!$%&.*+-#@~"
 }
 
